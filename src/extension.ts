@@ -15,7 +15,7 @@ function pxToRem(px: string) {
 }
 
 function convert(input: string) {
-  const pxRegex = /\d+(\.\d+)?px/;
+  const pxRegex = /\d+(\.\d+)?px/g;
 
   let result = input;
 

@@ -2,7 +2,7 @@
   "name": "px-rem-converter",
   "displayName": "PX REM Converter",
   "description": "Converts pixels to rem. As simple as it gets.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.40.0"
   },
